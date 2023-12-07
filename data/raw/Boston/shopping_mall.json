@@ -1,0 +1,402 @@
+[
+    {
+        "lat": 42.3893884,
+        "lon": -71.1185346,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3885842,
+        "lon": -71.11875789999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.390025,
+        "lon": -71.1414861,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3891989,
+        "lon": -71.1413238,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.38621819999999,
+        "lon": -71.1141705,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3899452,
+        "lon": -71.1435193,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3741148,
+        "lon": -71.1203848,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.372564,
+        "lon": -71.1194429,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4069846,
+        "lon": -71.0918823,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3965291,
+        "lon": -71.0826822,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3712274,
+        "lon": -71.1578853,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.407084,
+        "lon": -71.084035,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4060454,
+        "lon": -71.083083,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3942477,
+        "lon": -71.07914099999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4039222,
+        "lon": -71.0805321,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3573524,
+        "lon": -71.11490230000001,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.36380339999999,
+        "lon": -71.1574215,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3737134,
+        "lon": -71.0828791,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3616468,
+        "lon": -71.1589755,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.414363,
+        "lon": -71.0782815,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3422941,
+        "lon": -71.1218624,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.34310199999999,
+        "lon": -71.14099449999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3382098,
+        "lon": -71.1068511,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3334536,
+        "lon": -71.1041047,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3573524,
+        "lon": -71.11490230000001,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.358852,
+        "lon": -71.15388589999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3420949,
+        "lon": -71.08628340000001,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3476071,
+        "lon": -71.0852003,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3616468,
+        "lon": -71.1589755,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.36380339999999,
+        "lon": -71.1574215,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3473912,
+        "lon": -71.0820284,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3741148,
+        "lon": -71.1203848,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.34744,
+        "lon": -71.077696,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.318475,
+        "lon": -71.08257499999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3712274,
+        "lon": -71.1578853,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3512244,
+        "lon": -71.0756608,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3038297,
+        "lon": -71.15215599999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3214522,
+        "lon": -71.1760409,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3191657,
+        "lon": -71.1755462,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3737134,
+        "lon": -71.0828791,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3514119,
+        "lon": -71.04526249999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3267576,
+        "lon": -71.0630645,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3543472,
+        "lon": -71.06142419999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3556742,
+        "lon": -71.06045209999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3556611,
+        "lon": -71.061292,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3606775,
+        "lon": -71.054163,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3611639,
+        "lon": -71.0529584,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.34744,
+        "lon": -71.077696,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3512244,
+        "lon": -71.0756608,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3517153,
+        "lon": -71.075951,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3617473,
+        "lon": -71.0667524,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3473912,
+        "lon": -71.0820284,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3623339,
+        "lon": -71.069979,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3420949,
+        "lon": -71.08628340000001,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3476071,
+        "lon": -71.0852003,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.318475,
+        "lon": -71.08257499999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3756787,
+        "lon": -71.04041219999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.2974898,
+        "lon": -71.0498751,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3737134,
+        "lon": -71.0828791,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3382098,
+        "lon": -71.1068511,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3953592,
+        "lon": -71.0423519,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.39991380000001,
+        "lon": -71.0707456,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4030217,
+        "lon": -71.0251353,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4143893,
+        "lon": -71.0469677,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3756787,
+        "lon": -71.04041219999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4048171,
+        "lon": -71.02377729999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3965291,
+        "lon": -71.0826822,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4039222,
+        "lon": -71.0805321,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4060454,
+        "lon": -71.083083,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.407084,
+        "lon": -71.084035,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.414363,
+        "lon": -71.0782815,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.42534,
+        "lon": -71.04422819999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.411159,
+        "lon": -71.01275869999999,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4214649,
+        "lon": -71.0741804,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3737134,
+        "lon": -71.0828791,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3611639,
+        "lon": -71.0529584,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3606775,
+        "lon": -71.054163,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4069846,
+        "lon": -71.0918823,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.3617473,
+        "lon": -71.0667524,
+        "type": "shopping_mall"
+    },
+    {
+        "lat": 42.4304189,
+        "lon": -71.0423598,
+        "type": "shopping_mall"
+    }
+]

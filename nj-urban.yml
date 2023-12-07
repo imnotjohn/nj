@@ -1,0 +1,37 @@
+# conda env create -f nj-urban.yml
+name: nj-urban
+
+channels:
+- conda-forge
+- anaconda-fusion
+- jmcmurray
+- defaults
+
+dependencies:
+- beautifulsoup4
+- ipytest
+- IPython
+- ipywidgets
+- json
+- jupyter
+- jupyterlab
+- matplotlib
+- numpy
+- pandas
+- scipy
+- scikit-learn
+- seaborn
+- pytorch
+- torchvision
+- pillow
+- glob2
+- folium
+- python>=3.8
+- pip
+- requests
+- tqdm
+- pip:
+  - pytorch-msssim
+  - tensorflow
+  - python-google-places
+  - keras

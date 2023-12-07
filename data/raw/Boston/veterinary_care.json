@@ -1,0 +1,402 @@
+[
+    {
+        "lat": 42.3937896,
+        "lon": -71.1200798,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3937644,
+        "lon": -71.1200179,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3929522,
+        "lon": -71.1143367,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3840007,
+        "lon": -71.11977120000002,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3862986,
+        "lon": -71.1407436,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3892532,
+        "lon": -71.1435436,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.4047263,
+        "lon": -71.1079057,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3912168,
+        "lon": -71.09032549999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.420769,
+        "lon": -71.14162139999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.4069024,
+        "lon": -71.09193189999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.37296720000001,
+        "lon": -71.09582379999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.4055984,
+        "lon": -71.083854,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.404028,
+        "lon": -71.0797966,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3802963,
+        "lon": -71.0717298,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3495587,
+        "lon": -71.0885967,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3700378,
+        "lon": -71.19157609999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3870689,
+        "lon": -71.1991566,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.34944280000001,
+        "lon": -71.085414,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3488403,
+        "lon": -71.0844872,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.36452209999999,
+        "lon": -71.0607802,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3430161,
+        "lon": -71.1221633,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3429373,
+        "lon": -71.1197751,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.339742,
+        "lon": -71.135616,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3300204,
+        "lon": -71.1269413,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3526453,
+        "lon": -71.13930289999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3233529,
+        "lon": -71.1117218,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3131454,
+        "lon": -71.113492,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3495587,
+        "lon": -71.0885967,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.34944280000001,
+        "lon": -71.085414,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3488403,
+        "lon": -71.0844872,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3434084,
+        "lon": -71.0730518,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.37296720000001,
+        "lon": -71.09582379999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3497138,
+        "lon": -71.07087229999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.347018,
+        "lon": -71.0700978,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3482661,
+        "lon": -71.0678617,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3840007,
+        "lon": -71.11977120000002,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.36043,
+        "lon": -71.0709725,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3305788,
+        "lon": -71.1900595,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3862986,
+        "lon": -71.1407436,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.36452209999999,
+        "lon": -71.0607802,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3424351,
+        "lon": -71.05734509999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3481997,
+        "lon": -71.0414921,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3310543,
+        "lon": -71.0639166,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3482661,
+        "lon": -71.0678617,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3482444,
+        "lon": -71.0684126,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.347018,
+        "lon": -71.0700978,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3434084,
+        "lon": -71.0730518,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3497138,
+        "lon": -71.07087229999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3467871,
+        "lon": -71.07487909999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.36452209999999,
+        "lon": -71.0607802,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.36043,
+        "lon": -71.0709725,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.36518359999999,
+        "lon": -71.0595075,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.364521,
+        "lon": -71.064025,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3488403,
+        "lon": -71.0844872,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.34944280000001,
+        "lon": -71.085414,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3495587,
+        "lon": -71.0885967,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3802963,
+        "lon": -71.0717298,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.293243,
+        "lon": -71.0511184,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3233529,
+        "lon": -71.1117218,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3430161,
+        "lon": -71.1221633,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.402835,
+        "lon": -71.045508,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3983776,
+        "lon": -71.06936859999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3784753,
+        "lon": -71.06836009999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3802963,
+        "lon": -71.0717298,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.404028,
+        "lon": -71.0797966,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.4055984,
+        "lon": -71.083854,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.4083619,
+        "lon": -71.0129311,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.36518359999999,
+        "lon": -71.0595075,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.36452209999999,
+        "lon": -71.0607802,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.364521,
+        "lon": -71.064025,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.4069024,
+        "lon": -71.09193189999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.36043,
+        "lon": -71.0709725,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.37296720000001,
+        "lon": -71.09582379999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3497138,
+        "lon": -71.07087229999999,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3482661,
+        "lon": -71.0678617,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.347018,
+        "lon": -71.0700978,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3488403,
+        "lon": -71.0844872,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3840007,
+        "lon": -71.11977120000002,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.3495587,
+        "lon": -71.0885967,
+        "type": "veterinary_care"
+    },
+    {
+        "lat": 42.4697925,
+        "lon": -71.02423759999999,
+        "type": "veterinary_care"
+    }
+]

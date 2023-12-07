@@ -1,0 +1,402 @@
+[
+    {
+        "lat": 42.3945083,
+        "lon": -71.1267316,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3947341,
+        "lon": -71.1269332,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.394472,
+        "lon": -71.1266916,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3954224,
+        "lon": -71.1282753,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3957556,
+        "lon": -71.12382219999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3964978,
+        "lon": -71.12948899999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3951983,
+        "lon": -71.1223207,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.39590339999999,
+        "lon": -71.12241879999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3965778,
+        "lon": -71.12272779999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3973681,
+        "lon": -71.1234176,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3973928,
+        "lon": -71.12992419999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3949089,
+        "lon": -71.1217692,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3956206,
+        "lon": -71.12190319999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.39617,
+        "lon": -71.122046,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3952669,
+        "lon": -71.1216735,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3962055,
+        "lon": -71.1219789,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3969932,
+        "lon": -71.12253559999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3944591,
+        "lon": -71.121004,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3983533,
+        "lon": -71.1238238,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3972591,
+        "lon": -71.1219894,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.34114599999999,
+        "lon": -71.126254,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3413277,
+        "lon": -71.1255177,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.34105419999999,
+        "lon": -71.1244193,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3410347,
+        "lon": -71.1243692,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.34177469999999,
+        "lon": -71.123609,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3411239,
+        "lon": -71.12283459999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3419258,
+        "lon": -71.1233104,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3421261,
+        "lon": -71.12247219999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3411164,
+        "lon": -71.1211859,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3412607,
+        "lon": -71.1212183,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.34340419999999,
+        "lon": -71.12358189999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3434325,
+        "lon": -71.1236313,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3423891,
+        "lon": -71.1219601,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3424893,
+        "lon": -71.12199869999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3430559,
+        "lon": -71.1224208,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3434449,
+        "lon": -71.12304619999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3438168,
+        "lon": -71.1237737,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3348109,
+        "lon": -71.1229882,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3343862,
+        "lon": -71.1233438,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.33580509999999,
+        "lon": -71.1200124,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3399629,
+        "lon": -71.0492428,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3383356,
+        "lon": -71.0498466,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3392229,
+        "lon": -71.0509402,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3394097,
+        "lon": -71.0514269,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3395531,
+        "lon": -71.0517342,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3370407,
+        "lon": -71.0484037,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3370693,
+        "lon": -71.0476881,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3369817,
+        "lon": -71.0473248,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3364057,
+        "lon": -71.0478732,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.33631500000001,
+        "lon": -71.047597,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3404536,
+        "lon": -71.0529671,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3360201,
+        "lon": -71.047079,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.336015,
+        "lon": -71.04686099999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.33597169999999,
+        "lon": -71.046786,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3373218,
+        "lon": -71.0435761,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.33551,
+        "lon": -71.0461089,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3357761,
+        "lon": -71.0452492,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3355026,
+        "lon": -71.0459442,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3434093,
+        "lon": -71.04504109999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.33516729999999,
+        "lon": -71.0460506,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3942473,
+        "lon": -71.0473578,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3946565,
+        "lon": -71.05214459999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.394808,
+        "lon": -71.0433711,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3955924,
+        "lon": -71.0402837,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3937898,
+        "lon": -71.0384016,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3926594,
+        "lon": -71.0386971,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.392578,
+        "lon": -71.03858199999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.4016564,
+        "lon": -71.04432489999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3935599,
+        "lon": -71.03820859999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.402305,
+        "lon": -71.0500319,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3892102,
+        "lon": -71.0407927,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.389432,
+        "lon": -71.040387,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3892044,
+        "lon": -71.0406347,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3892205,
+        "lon": -71.0406,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3896276,
+        "lon": -71.0399193,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.390077,
+        "lon": -71.03915119999999,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3903742,
+        "lon": -71.0386838,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.4022061,
+        "lon": -71.0422379,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3902986,
+        "lon": -71.0379337,
+        "type": "restaurant"
+    },
+    {
+        "lat": 42.3904886,
+        "lon": -71.0370382,
+        "type": "restaurant"
+    }
+]

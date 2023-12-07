@@ -1,0 +1,322 @@
+[
+    {
+        "lat": 42.49242,
+        "lon": -71.0198078,
+        "type": "campground"
+    },
+    {
+        "lat": 42.4733895,
+        "lon": -71.2800199,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3012928,
+        "lon": -70.9291915,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3011944,
+        "lon": -70.9289715,
+        "type": "campground"
+    },
+    {
+        "lat": 42.30146,
+        "lon": -70.92863729999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1863359,
+        "lon": -71.0920093,
+        "type": "campground"
+    },
+    {
+        "lat": 42.6102693,
+        "lon": -71.14510229999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.52668000000001,
+        "lon": -70.8691812,
+        "type": "campground"
+    },
+    {
+        "lat": 42.2040799,
+        "lon": -70.84738759999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1999617,
+        "lon": -70.8506658,
+        "type": "campground"
+    },
+    {
+        "lat": 42.67721,
+        "lon": -71.394966,
+        "type": "campground"
+    },
+    {
+        "lat": 42.040577,
+        "lon": -71.2809869,
+        "type": "campground"
+    },
+    {
+        "lat": 42.0193598,
+        "lon": -71.1809437,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1009364,
+        "lon": -71.4718041,
+        "type": "campground"
+    },
+    {
+        "lat": 42.5553125,
+        "lon": -71.68975929999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3015014,
+        "lon": -70.9293745,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3012928,
+        "lon": -70.9291915,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3011944,
+        "lon": -70.9289715,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3016499,
+        "lon": -70.9287348,
+        "type": "campground"
+    },
+    {
+        "lat": 42.30146,
+        "lon": -70.92863729999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1863359,
+        "lon": -71.0920093,
+        "type": "campground"
+    },
+    {
+        "lat": 42.4733895,
+        "lon": -71.2800199,
+        "type": "campground"
+    },
+    {
+        "lat": 42.2040799,
+        "lon": -70.84738759999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1999617,
+        "lon": -70.8506658,
+        "type": "campground"
+    },
+    {
+        "lat": 42.52668000000001,
+        "lon": -70.8691812,
+        "type": "campground"
+    },
+    {
+        "lat": 42.6102693,
+        "lon": -71.14510229999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.040577,
+        "lon": -71.2809869,
+        "type": "campground"
+    },
+    {
+        "lat": 42.0193598,
+        "lon": -71.1809437,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1009364,
+        "lon": -71.4718041,
+        "type": "campground"
+    },
+    {
+        "lat": 42.67721,
+        "lon": -71.394966,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3015014,
+        "lon": -70.9293745,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3012928,
+        "lon": -70.9291915,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3016499,
+        "lon": -70.9287348,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3011944,
+        "lon": -70.9289715,
+        "type": "campground"
+    },
+    {
+        "lat": 42.30146,
+        "lon": -70.92863729999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1863359,
+        "lon": -71.0920093,
+        "type": "campground"
+    },
+    {
+        "lat": 42.2040799,
+        "lon": -70.84738759999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1999617,
+        "lon": -70.8506658,
+        "type": "campground"
+    },
+    {
+        "lat": 42.201853,
+        "lon": -70.8431071,
+        "type": "campground"
+    },
+    {
+        "lat": 42.4733895,
+        "lon": -71.2800199,
+        "type": "campground"
+    },
+    {
+        "lat": 42.52668000000001,
+        "lon": -70.8691812,
+        "type": "campground"
+    },
+    {
+        "lat": 42.6102693,
+        "lon": -71.14510229999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.0581119,
+        "lon": -70.8507399,
+        "type": "campground"
+    },
+    {
+        "lat": 42.0193598,
+        "lon": -71.1809437,
+        "type": "campground"
+    },
+    {
+        "lat": 42.040577,
+        "lon": -71.2809869,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1009364,
+        "lon": -71.4718041,
+        "type": "campground"
+    },
+    {
+        "lat": 42.67721,
+        "lon": -71.394966,
+        "type": "campground"
+    },
+    {
+        "lat": 42.49242,
+        "lon": -71.0198078,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3015014,
+        "lon": -70.9293745,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3012928,
+        "lon": -70.9291915,
+        "type": "campground"
+    },
+    {
+        "lat": 42.30146,
+        "lon": -70.92863729999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.3011944,
+        "lon": -70.9289715,
+        "type": "campground"
+    },
+    {
+        "lat": 42.52668000000001,
+        "lon": -70.8691812,
+        "type": "campground"
+    },
+    {
+        "lat": 42.4733895,
+        "lon": -71.2800199,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1863359,
+        "lon": -71.0920093,
+        "type": "campground"
+    },
+    {
+        "lat": 42.6102693,
+        "lon": -71.14510229999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.2040799,
+        "lon": -70.84738759999999,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1999617,
+        "lon": -70.8506658,
+        "type": "campground"
+    },
+    {
+        "lat": 42.6282362,
+        "lon": -70.9429771,
+        "type": "campground"
+    },
+    {
+        "lat": 42.0581119,
+        "lon": -70.8507399,
+        "type": "campground"
+    },
+    {
+        "lat": 42.67721,
+        "lon": -71.394966,
+        "type": "campground"
+    },
+    {
+        "lat": 42.0193598,
+        "lon": -71.1809437,
+        "type": "campground"
+    },
+    {
+        "lat": 42.040577,
+        "lon": -71.2809869,
+        "type": "campground"
+    },
+    {
+        "lat": 42.1009364,
+        "lon": -71.4718041,
+        "type": "campground"
+    }
+]

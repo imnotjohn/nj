@@ -1,0 +1,37 @@
+[
+    {
+        "lat": 42.393835,
+        "lon": -71.125708,
+        "type": "grocery_or_supermarket"
+    },
+    {
+        "lat": 42.3891989,
+        "lon": -71.1413238,
+        "type": "grocery_or_supermarket"
+    },
+    {
+        "lat": 42.4068684,
+        "lon": -71.1323081,
+        "type": "grocery_or_supermarket"
+    },
+    {
+        "lat": 42.37602030000001,
+        "lon": -71.10293419999999,
+        "type": "grocery_or_supermarket"
+    },
+    {
+        "lat": 42.3899818,
+        "lon": -71.0856355,
+        "type": "grocery_or_supermarket"
+    },
+    {
+        "lat": 42.375484,
+        "lon": -71.03169299999999,
+        "type": "grocery_or_supermarket"
+    },
+    {
+        "lat": 42.3641683,
+        "lon": -71.0217535,
+        "type": "grocery_or_supermarket"
+    }
+]

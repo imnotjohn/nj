@@ -1,0 +1,402 @@
+[
+    {
+        "lat": 42.3960427,
+        "lon": -71.12243219999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3958538,
+        "lon": -71.1217813,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.396223,
+        "lon": -71.1219406,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3970047,
+        "lon": -71.1217252,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.39785790000001,
+        "lon": -71.1310548,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.39602,
+        "lon": -71.120707,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3885699,
+        "lon": -71.1288982,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3895126,
+        "lon": -71.1206701,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3889077,
+        "lon": -71.1199716,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3930624,
+        "lon": -71.11406099999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.39035639999999,
+        "lon": -71.1407503,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3999867,
+        "lon": -71.11201679999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.39069,
+        "lon": -71.1423087,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3906544,
+        "lon": -71.1423915,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3961246,
+        "lon": -71.1087988,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3951725,
+        "lon": -71.145814,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3839752,
+        "lon": -71.11129009999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4017354,
+        "lon": -71.0996825,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4161589,
+        "lon": -71.1276975,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.37333479999999,
+        "lon": -71.12251909999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3395911,
+        "lon": -71.1208309,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3422668,
+        "lon": -71.1218548,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3411641,
+        "lon": -71.12075229999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3411345,
+        "lon": -71.1207361,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3425521,
+        "lon": -71.12136,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.335366,
+        "lon": -71.1199656,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.34285209999999,
+        "lon": -71.11773149999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.342452,
+        "lon": -71.13942829999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3368935,
+        "lon": -71.1476443,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3376274,
+        "lon": -71.1514282,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3229938,
+        "lon": -71.11242589999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3450755,
+        "lon": -71.1525044,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3227933,
+        "lon": -71.1057335,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3595974,
+        "lon": -71.1466765,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3634241,
+        "lon": -71.139265,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.348596,
+        "lon": -71.09308779999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3126247,
+        "lon": -71.1169298,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3129134,
+        "lon": -71.1133706,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3483451,
+        "lon": -71.08795909999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3666438,
+        "lon": -71.10537049999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3364057,
+        "lon": -71.0478732,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3355973,
+        "lon": -71.0450319,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3379182,
+        "lon": -71.0420204,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3351571,
+        "lon": -71.0550457,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3309658,
+        "lon": -71.0544728,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.350458,
+        "lon": -71.0468982,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3497137,
+        "lon": -71.0426583,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3514794,
+        "lon": -71.04640239999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.351482,
+        "lon": -71.04640239999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3532702,
+        "lon": -71.04515959999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3511088,
+        "lon": -71.061025,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3512887,
+        "lon": -71.06154099999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.353649,
+        "lon": -71.056467,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.35375519999999,
+        "lon": -71.056416,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3540372,
+        "lon": -71.05549959999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.354131,
+        "lon": -71.055962,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3542667,
+        "lon": -71.0565738,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3536916,
+        "lon": -71.0584183,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3550019,
+        "lon": -71.0567528,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3497336,
+        "lon": -71.068534,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3936888,
+        "lon": -71.0412802,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.39334969999999,
+        "lon": -71.0396153,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.39022629999999,
+        "lon": -71.0388912,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.40231910000001,
+        "lon": -71.0436017,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3909946,
+        "lon": -71.03748519999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.388459,
+        "lon": -71.03981379999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3901995,
+        "lon": -71.03708990000001,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4029698,
+        "lon": -71.0565402,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.393104,
+        "lon": -71.0344255,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3924945,
+        "lon": -71.0344375,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4048443,
+        "lon": -71.0571344,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4053968,
+        "lon": -71.0566505,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4050169,
+        "lon": -71.057611,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4064924,
+        "lon": -71.0558889,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4064926,
+        "lon": -71.0558887,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4065771,
+        "lon": -71.0557893,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.40748749999999,
+        "lon": -71.05474459999999,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4075223,
+        "lon": -71.0548381,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.4106437,
+        "lon": -71.0518658,
+        "type": "accounting"
+    },
+    {
+        "lat": 42.3973436,
+        "lon": -71.0263007,
+        "type": "accounting"
+    }
+]

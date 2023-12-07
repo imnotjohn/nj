@@ -1,0 +1,402 @@
+[
+    {
+        "lat": 42.3955066,
+        "lon": -71.1197637,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3913342,
+        "lon": -71.1186258,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3904886,
+        "lon": -71.1406502,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3859936,
+        "lon": -71.11605089999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3704436,
+        "lon": -71.10352379999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3816487,
+        "lon": -71.0897391,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.4200963,
+        "lon": -71.1003419,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3618134,
+        "lon": -71.0973616,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.4212353,
+        "lon": -71.1666754,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.4204709,
+        "lon": -71.1698093,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3726871,
+        "lon": -71.0790562,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3799256,
+        "lon": -71.07285209999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3517114,
+        "lon": -71.1226642,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3872225,
+        "lon": -71.1893834,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3872364,
+        "lon": -71.1902082,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3635338,
+        "lon": -71.1863085,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.4261163,
+        "lon": -71.1955001,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.361766,
+        "lon": -71.0525491,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3455773,
+        "lon": -71.069423,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3224093,
+        "lon": -71.1088047,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3373898,
+        "lon": -71.12644560000001,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3517114,
+        "lon": -71.1226642,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3448472,
+        "lon": -71.1023307,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3224093,
+        "lon": -71.1088047,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3618134,
+        "lon": -71.0973616,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3074991,
+        "lon": -71.11537369999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3704436,
+        "lon": -71.10352379999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3455773,
+        "lon": -71.069423,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3859936,
+        "lon": -71.11605089999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3726871,
+        "lon": -71.0790562,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3816487,
+        "lon": -71.0897391,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3635338,
+        "lon": -71.1863085,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3904886,
+        "lon": -71.1406502,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3913342,
+        "lon": -71.1186258,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3955066,
+        "lon": -71.1197637,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3799256,
+        "lon": -71.07285209999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.361766,
+        "lon": -71.0525491,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3872225,
+        "lon": -71.1893834,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3872364,
+        "lon": -71.1902082,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3051387,
+        "lon": -71.218092,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3455773,
+        "lon": -71.069423,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3605921,
+        "lon": -71.0543964,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.361766,
+        "lon": -71.0525491,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3726871,
+        "lon": -71.0790562,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3618134,
+        "lon": -71.0973616,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3799256,
+        "lon": -71.07285209999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3224093,
+        "lon": -71.1088047,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3704436,
+        "lon": -71.10352379999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.370447,
+        "lon": -71.10356039999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3816487,
+        "lon": -71.0897391,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3517114,
+        "lon": -71.1226642,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3074991,
+        "lon": -71.11537369999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3859936,
+        "lon": -71.11605089999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3913342,
+        "lon": -71.1186258,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3904886,
+        "lon": -71.1406502,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.4200963,
+        "lon": -71.1003419,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3635338,
+        "lon": -71.1863085,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.226339,
+        "lon": -71.031345,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3872225,
+        "lon": -71.1893834,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.4204709,
+        "lon": -71.1698093,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3799256,
+        "lon": -71.07285209999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3726871,
+        "lon": -71.0790562,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.361766,
+        "lon": -71.0525491,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3816487,
+        "lon": -71.0897391,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3605921,
+        "lon": -71.0543964,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.4288224,
+        "lon": -71.06841589999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.4200963,
+        "lon": -71.1003419,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3704436,
+        "lon": -71.10352379999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3618134,
+        "lon": -71.0973616,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3859936,
+        "lon": -71.11605089999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3455773,
+        "lon": -71.069423,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3913342,
+        "lon": -71.1186258,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3955066,
+        "lon": -71.1197637,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3904886,
+        "lon": -71.1406502,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3517114,
+        "lon": -71.1226642,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3224093,
+        "lon": -71.1088047,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.4204709,
+        "lon": -71.1698093,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3074991,
+        "lon": -71.11537369999999,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3872225,
+        "lon": -71.1893834,
+        "type": "bicycle_store"
+    },
+    {
+        "lat": 42.3872364,
+        "lon": -71.1902082,
+        "type": "bicycle_store"
+    }
+]

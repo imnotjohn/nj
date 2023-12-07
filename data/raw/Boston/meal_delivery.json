@@ -1,0 +1,72 @@
+[
+    {
+        "lat": 42.3944631,
+        "lon": -71.1265667,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3973681,
+        "lon": -71.1234176,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3973928,
+        "lon": -71.12992419999999,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3859319,
+        "lon": -71.1195647,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3900558,
+        "lon": -71.1428269,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.4052978,
+        "lon": -71.1414183,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3882949,
+        "lon": -71.1037726,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3728442,
+        "lon": -71.1200891,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3729811,
+        "lon": -71.11785669999999,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3731189,
+        "lon": -71.0951975,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3932461,
+        "lon": -71.0796993,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.363904,
+        "lon": -71.1016458,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3626383,
+        "lon": -71.0871987,
+        "type": "meal_delivery"
+    },
+    {
+        "lat": 42.3697035,
+        "lon": -71.07801309999999,
+        "type": "meal_delivery"
+    }
+]

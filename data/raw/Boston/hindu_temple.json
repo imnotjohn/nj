@@ -1,0 +1,402 @@
+[
+    {
+        "lat": 42.37527679999999,
+        "lon": -71.1163069,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.4014653,
+        "lon": -71.09964510000002,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.3505737,
+        "lon": -71.09797859999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.3523001,
+        "lon": -71.0749637,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.4800445,
+        "lon": -71.1526215,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2994275,
+        "lon": -71.07314819999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5050971,
+        "lon": -71.1652032,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5304802,
+        "lon": -71.2061152,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.574445,
+        "lon": -71.2846313,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5550137,
+        "lon": -71.3260889,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5895532,
+        "lon": -71.30592899999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1610992,
+        "lon": -71.1994553,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.152204,
+        "lon": -71.1009404,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2684629,
+        "lon": -71.4425914,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2685878,
+        "lon": -71.4428171,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1335085,
+        "lon": -71.00731449999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.6765136,
+        "lon": -71.15109269999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.676535,
+        "lon": -71.1510943,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.6279446,
+        "lon": -71.34868039999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1237576,
+        "lon": -71.2654792,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.3505737,
+        "lon": -71.09797859999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.37527679999999,
+        "lon": -71.1163069,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.3523001,
+        "lon": -71.0749637,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2994275,
+        "lon": -71.07314819999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.4014653,
+        "lon": -71.09964510000002,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.4800445,
+        "lon": -71.1526215,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5050971,
+        "lon": -71.1652032,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1610992,
+        "lon": -71.1994553,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.152204,
+        "lon": -71.1009404,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5304802,
+        "lon": -71.2061152,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1335085,
+        "lon": -71.00731449999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.115542,
+        "lon": -71.235287,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1237576,
+        "lon": -71.2654792,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2684629,
+        "lon": -71.4425914,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2685878,
+        "lon": -71.4428171,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5550137,
+        "lon": -71.3260889,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.574445,
+        "lon": -71.2846313,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5895532,
+        "lon": -71.30592899999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.0556493,
+        "lon": -71.2449202,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5444195,
+        "lon": -71.46727249999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.3523001,
+        "lon": -71.0749637,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.3505737,
+        "lon": -71.09797859999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2994275,
+        "lon": -71.07314819999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.37527679999999,
+        "lon": -71.1163069,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.4014653,
+        "lon": -71.09964510000002,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.4800445,
+        "lon": -71.1526215,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5050971,
+        "lon": -71.1652032,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.152204,
+        "lon": -71.1009404,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1335085,
+        "lon": -71.00731449999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1610992,
+        "lon": -71.1994553,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5304802,
+        "lon": -71.2061152,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.115542,
+        "lon": -71.235287,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1237576,
+        "lon": -71.2654792,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.574445,
+        "lon": -71.2846313,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5550137,
+        "lon": -71.3260889,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2684629,
+        "lon": -71.4425914,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2685878,
+        "lon": -71.4428171,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5895532,
+        "lon": -71.30592899999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.0556493,
+        "lon": -71.2449202,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.676535,
+        "lon": -71.1510943,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.4014653,
+        "lon": -71.09964510000002,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.3523001,
+        "lon": -71.0749637,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.37527679999999,
+        "lon": -71.1163069,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.3505737,
+        "lon": -71.09797859999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2994275,
+        "lon": -71.07314819999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.4800445,
+        "lon": -71.1526215,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5050971,
+        "lon": -71.1652032,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5304802,
+        "lon": -71.2061152,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.152204,
+        "lon": -71.1009404,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.574445,
+        "lon": -71.2846313,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1610992,
+        "lon": -71.1994553,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5550137,
+        "lon": -71.3260889,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1335085,
+        "lon": -71.00731449999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.5895532,
+        "lon": -71.30592899999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.6765136,
+        "lon": -71.15109269999999,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.676535,
+        "lon": -71.1510943,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.115542,
+        "lon": -71.235287,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.1237576,
+        "lon": -71.2654792,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2684629,
+        "lon": -71.4425914,
+        "type": "hindu_temple"
+    },
+    {
+        "lat": 42.2685878,
+        "lon": -71.4428171,
+        "type": "hindu_temple"
+    }
+]

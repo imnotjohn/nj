@@ -1,0 +1,122 @@
+[
+    {
+        "lat": 42.33393100000001,
+        "lon": -71.03431499999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3451704,
+        "lon": -71.0697842,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3589524,
+        "lon": -71.0936091,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.2114251,
+        "lon": -71.0196867,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3941848,
+        "lon": -71.0394551,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.4014666,
+        "lon": -71.0416098,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.4031975,
+        "lon": -71.0462834,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3869842,
+        "lon": -71.0743411,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.38399090000001,
+        "lon": -71.0769595,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.36604,
+        "lon": -71.06396,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.433058,
+        "lon": -71.047263,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.392616,
+        "lon": -71.100619,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3925431,
+        "lon": -71.1007187,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3552819,
+        "lon": -71.05629669999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.397746,
+        "lon": -70.99253300000001,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3505352,
+        "lon": -71.0561841,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3504209,
+        "lon": -71.0556344,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3507232,
+        "lon": -71.05848569999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3504505,
+        "lon": -71.0561242,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.35041529999999,
+        "lon": -71.056214,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3509686,
+        "lon": -71.0676912,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3589524,
+        "lon": -71.0936091,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.34415,
+        "lon": -71.0615005,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3451704,
+        "lon": -71.0697842,
+        "type": "bus_station"
+    }
+]

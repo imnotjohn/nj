@@ -1,0 +1,77 @@
+[
+    {
+        "lat": 42.3909469,
+        "lon": -71.12185939999999,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3387763,
+        "lon": -71.13336919999999,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3447784,
+        "lon": -71.1218403,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3337237,
+        "lon": -71.121423,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.333748,
+        "lon": -71.1212276,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3314665,
+        "lon": -71.1174554,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.326753,
+        "lon": -71.1477499,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3106015,
+        "lon": -71.1145284,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3629729,
+        "lon": -71.1001212,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3511911,
+        "lon": -71.1681552,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3116109,
+        "lon": -71.1635824,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3696342,
+        "lon": -71.0752237,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3468724,
+        "lon": -71.5605964,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3696342,
+        "lon": -71.0752237,
+        "type": "fire_station"
+    },
+    {
+        "lat": 42.3696342,
+        "lon": -71.0752237,
+        "type": "fire_station"
+    }
+]

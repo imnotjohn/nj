@@ -1,0 +1,402 @@
+[
+    {
+        "lat": 42.3937829,
+        "lon": -71.1340558,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3905205,
+        "lon": -71.1399313,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.401613,
+        "lon": -71.1145306,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3928224,
+        "lon": -71.1473582,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3938679,
+        "lon": -71.150437,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3737732,
+        "lon": -71.1234336,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3931672,
+        "lon": -71.0940377,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3774231,
+        "lon": -71.0987858,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.4107845,
+        "lon": -71.09682459999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.4126391,
+        "lon": -71.0966744,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3892645,
+        "lon": -71.08812510000001,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.379397,
+        "lon": -71.0870956,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3797202,
+        "lon": -71.0816162,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3710845,
+        "lon": -71.16472390000001,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3655505,
+        "lon": -71.0962493,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3560595,
+        "lon": -71.1332054,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3569009,
+        "lon": -71.151118,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3778488,
+        "lon": -71.0727611,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3580669,
+        "lon": -71.1585341,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3657453,
+        "lon": -71.179142,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.340852,
+        "lon": -71.1210234,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3420504,
+        "lon": -71.12042060000002,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3327366,
+        "lon": -71.1188226,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3384838,
+        "lon": -71.1421653,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3438401,
+        "lon": -71.1424017,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.349823,
+        "lon": -71.1150765,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3533456,
+        "lon": -71.1271639,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3445472,
+        "lon": -71.1448898,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.336257,
+        "lon": -71.1458083,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3451352,
+        "lon": -71.14501659999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.342258,
+        "lon": -71.146343,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.35458089999999,
+        "lon": -71.1243808,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3546095,
+        "lon": -71.13665879999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3554308,
+        "lon": -71.1350914,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3560595,
+        "lon": -71.1332054,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3557704,
+        "lon": -71.14714239999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3569009,
+        "lon": -71.151118,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3486969,
+        "lon": -71.0907977,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3580669,
+        "lon": -71.1585341,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3518437,
+        "lon": -71.16692259999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.340117,
+        "lon": -71.045169,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3341286,
+        "lon": -71.0457254,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3434659,
+        "lon": -71.0686896,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3238101,
+        "lon": -71.0543297,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3561697,
+        "lon": -71.0539392,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3564979,
+        "lon": -71.0533518,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.358069,
+        "lon": -71.05523099999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3572748,
+        "lon": -71.058964,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3505191,
+        "lon": -71.0703351,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3593837,
+        "lon": -71.05655519999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.351371,
+        "lon": -71.0767716,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3541567,
+        "lon": -71.0762635,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3305203,
+        "lon": -71.0826214,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3487169,
+        "lon": -71.0834501,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.36518890000001,
+        "lon": -71.0688121,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3706687,
+        "lon": -71.04323169999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3486969,
+        "lon": -71.0907977,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3778488,
+        "lon": -71.0727611,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3655505,
+        "lon": -71.0962493,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3797202,
+        "lon": -71.0816162,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3899476,
+        "lon": -71.0374218,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3991433,
+        "lon": -71.0610062,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.39182539999999,
+        "lon": -71.0326726,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.406328,
+        "lon": -71.05446599999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.382542,
+        "lon": -71.058294,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.382542,
+        "lon": -71.058294,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.4053115,
+        "lon": -71.0614121,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.382437,
+        "lon": -71.060619,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3812071,
+        "lon": -71.03850299999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.4135727,
+        "lon": -71.05314240000001,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.374971,
+        "lon": -71.036535,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3706687,
+        "lon": -71.04323169999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3778488,
+        "lon": -71.0727611,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3797202,
+        "lon": -71.0816162,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.379397,
+        "lon": -71.0870956,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.4059097,
+        "lon": -71.0063831,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3931672,
+        "lon": -71.0940377,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.4107845,
+        "lon": -71.09682459999999,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.4126391,
+        "lon": -71.0966744,
+        "type": "moving_company"
+    },
+    {
+        "lat": 42.3655505,
+        "lon": -71.0962493,
+        "type": "moving_company"
+    }
+]

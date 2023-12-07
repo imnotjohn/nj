@@ -1,0 +1,112 @@
+[
+    {
+        "lat": 42.3409045,
+        "lon": -71.1217472,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.33564150000001,
+        "lon": -71.1498604,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3293461,
+        "lon": -71.0567855,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3284532,
+        "lon": -71.0567806,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.35126229999999,
+        "lon": -71.0614353,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3485021,
+        "lon": -71.0661623,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3467174,
+        "lon": -71.0694173,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3483915,
+        "lon": -71.087789,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3483779,
+        "lon": -71.08786409999999,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3409045,
+        "lon": -71.1217472,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.283729,
+        "lon": -71.0663537,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.33564150000001,
+        "lon": -71.1498604,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.375447,
+        "lon": -71.1473516,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3911709,
+        "lon": -71.0294292,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3755237,
+        "lon": -71.0369102,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.35126229999999,
+        "lon": -71.0614353,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3485021,
+        "lon": -71.0661623,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3483779,
+        "lon": -71.08786409999999,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.375447,
+        "lon": -71.1473516,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.3409045,
+        "lon": -71.1217472,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.33564150000001,
+        "lon": -71.1498604,
+        "type": "travel_agency"
+    },
+    {
+        "lat": 42.283729,
+        "lon": -71.0663537,
+        "type": "travel_agency"
+    }
+]

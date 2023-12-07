@@ -1,0 +1,402 @@
+[
+    {
+        "lat": 42.3875055,
+        "lon": -71.11900659999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.386639,
+        "lon": -71.118686,
+        "type": "university"
+    },
+    {
+        "lat": 42.4057688,
+        "lon": -71.1228534,
+        "type": "university"
+    },
+    {
+        "lat": 42.4059333,
+        "lon": -71.1169621,
+        "type": "university"
+    },
+    {
+        "lat": 42.3811689,
+        "lon": -71.11756679999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.4085371,
+        "lon": -71.1182729,
+        "type": "university"
+    },
+    {
+        "lat": 42.37620949999999,
+        "lon": -71.1239945,
+        "type": "university"
+    },
+    {
+        "lat": 42.415747,
+        "lon": -71.1266045,
+        "type": "university"
+    },
+    {
+        "lat": 42.3744368,
+        "lon": -71.1182488,
+        "type": "university"
+    },
+    {
+        "lat": 42.3662728,
+        "lon": -71.11413499999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3600626,
+        "lon": -71.1181206,
+        "type": "university"
+    },
+    {
+        "lat": 42.360091,
+        "lon": -71.09416,
+        "type": "university"
+    },
+    {
+        "lat": 42.3515083,
+        "lon": -71.12106589999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.351471,
+        "lon": -71.12097179999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3503681,
+        "lon": -71.1152189,
+        "type": "university"
+    },
+    {
+        "lat": 42.3509965,
+        "lon": -71.1098384,
+        "type": "university"
+    },
+    {
+        "lat": 42.3504997,
+        "lon": -71.1053991,
+        "type": "university"
+    },
+    {
+        "lat": 42.3502789,
+        "lon": -71.105441,
+        "type": "university"
+    },
+    {
+        "lat": 42.3418153,
+        "lon": -71.106524,
+        "type": "university"
+    },
+    {
+        "lat": 42.342375,
+        "lon": -71.1012251,
+        "type": "university"
+    },
+    {
+        "lat": 42.351471,
+        "lon": -71.12097179999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3515083,
+        "lon": -71.12106589999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3503681,
+        "lon": -71.1152189,
+        "type": "university"
+    },
+    {
+        "lat": 42.3512829,
+        "lon": -71.11387859999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3418153,
+        "lon": -71.106524,
+        "type": "university"
+    },
+    {
+        "lat": 42.3417611,
+        "lon": -71.1064572,
+        "type": "university"
+    },
+    {
+        "lat": 42.3509965,
+        "lon": -71.1098384,
+        "type": "university"
+    },
+    {
+        "lat": 42.33690199999999,
+        "lon": -71.10347689999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3502789,
+        "lon": -71.105441,
+        "type": "university"
+    },
+    {
+        "lat": 42.3504997,
+        "lon": -71.1053991,
+        "type": "university"
+    },
+    {
+        "lat": 42.3384031,
+        "lon": -71.09970779999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.348874,
+        "lon": -71.10246289999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3600626,
+        "lon": -71.1181206,
+        "type": "university"
+    },
+    {
+        "lat": 42.33854350000001,
+        "lon": -71.0923107,
+        "type": "university"
+    },
+    {
+        "lat": 42.3379677,
+        "lon": -71.0899565,
+        "type": "university"
+    },
+    {
+        "lat": 42.339904,
+        "lon": -71.0898892,
+        "type": "university"
+    },
+    {
+        "lat": 42.3384081,
+        "lon": -71.0889492,
+        "type": "university"
+    },
+    {
+        "lat": 42.340166,
+        "lon": -71.0885499,
+        "type": "university"
+    },
+    {
+        "lat": 42.3662728,
+        "lon": -71.11413499999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.360091,
+        "lon": -71.09416,
+        "type": "university"
+    },
+    {
+        "lat": 42.354188,
+        "lon": -71.0547594,
+        "type": "university"
+    },
+    {
+        "lat": 42.3560409,
+        "lon": -71.0540343,
+        "type": "university"
+    },
+    {
+        "lat": 42.3574985,
+        "lon": -71.0533404,
+        "type": "university"
+    },
+    {
+        "lat": 42.350513,
+        "lon": -71.0703984,
+        "type": "university"
+    },
+    {
+        "lat": 42.3578508,
+        "lon": -71.0611037,
+        "type": "university"
+    },
+    {
+        "lat": 42.3509312,
+        "lon": -71.07159039999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.35925599999999,
+        "lon": -71.0618392,
+        "type": "university"
+    },
+    {
+        "lat": 42.3141992,
+        "lon": -71.0419953,
+        "type": "university"
+    },
+    {
+        "lat": 42.3126653,
+        "lon": -71.0366086,
+        "type": "university"
+    },
+    {
+        "lat": 42.313019,
+        "lon": -71.0349721,
+        "type": "university"
+    },
+    {
+        "lat": 42.3395225,
+        "lon": -71.0878997,
+        "type": "university"
+    },
+    {
+        "lat": 42.340166,
+        "lon": -71.0885499,
+        "type": "university"
+    },
+    {
+        "lat": 42.3384081,
+        "lon": -71.0889492,
+        "type": "university"
+    },
+    {
+        "lat": 42.3379677,
+        "lon": -71.0899565,
+        "type": "university"
+    },
+    {
+        "lat": 42.33854350000001,
+        "lon": -71.0923107,
+        "type": "university"
+    },
+    {
+        "lat": 42.3384031,
+        "lon": -71.09970779999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.342375,
+        "lon": -71.1012251,
+        "type": "university"
+    },
+    {
+        "lat": 42.360091,
+        "lon": -71.09416,
+        "type": "university"
+    },
+    {
+        "lat": 42.33690199999999,
+        "lon": -71.10347689999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3418153,
+        "lon": -71.106524,
+        "type": "university"
+    },
+    {
+        "lat": 42.3574985,
+        "lon": -71.0533404,
+        "type": "university"
+    },
+    {
+        "lat": 42.3573021,
+        "lon": -71.05762310000001,
+        "type": "university"
+    },
+    {
+        "lat": 42.3578508,
+        "lon": -71.0611037,
+        "type": "university"
+    },
+    {
+        "lat": 42.3560409,
+        "lon": -71.0540343,
+        "type": "university"
+    },
+    {
+        "lat": 42.354188,
+        "lon": -71.0547594,
+        "type": "university"
+    },
+    {
+        "lat": 42.3509312,
+        "lon": -71.07159039999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.360091,
+        "lon": -71.09416,
+        "type": "university"
+    },
+    {
+        "lat": 42.386639,
+        "lon": -71.118686,
+        "type": "university"
+    },
+    {
+        "lat": 42.3875055,
+        "lon": -71.11900659999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3744368,
+        "lon": -71.1182488,
+        "type": "university"
+    },
+    {
+        "lat": 42.4057688,
+        "lon": -71.1228534,
+        "type": "university"
+    },
+    {
+        "lat": 42.3662728,
+        "lon": -71.11413499999999,
+        "type": "university"
+    },
+    {
+        "lat": 42.3504997,
+        "lon": -71.1053991,
+        "type": "university"
+    },
+    {
+        "lat": 42.3502789,
+        "lon": -71.105441,
+        "type": "university"
+    },
+    {
+        "lat": 42.415747,
+        "lon": -71.1266045,
+        "type": "university"
+    },
+    {
+        "lat": 42.3600626,
+        "lon": -71.1181206,
+        "type": "university"
+    },
+    {
+        "lat": 42.339904,
+        "lon": -71.0898892,
+        "type": "university"
+    },
+    {
+        "lat": 42.3384081,
+        "lon": -71.0889492,
+        "type": "university"
+    },
+    {
+        "lat": 42.3379677,
+        "lon": -71.0899565,
+        "type": "university"
+    },
+    {
+        "lat": 42.33854350000001,
+        "lon": -71.0923107,
+        "type": "university"
+    }
+]

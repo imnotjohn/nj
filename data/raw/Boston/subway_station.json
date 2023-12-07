@@ -1,0 +1,37 @@
+[
+    {
+        "lat": 42.3860644,
+        "lon": -71.1140776,
+        "type": "subway_station"
+    },
+    {
+        "lat": 42.3411164,
+        "lon": -71.1211859,
+        "type": "subway_station"
+    },
+    {
+        "lat": 42.3594975,
+        "lon": -71.0587915,
+        "type": "subway_station"
+    },
+    {
+        "lat": 42.3467244,
+        "lon": -71.0888535,
+        "type": "subway_station"
+    },
+    {
+        "lat": 42.3506551,
+        "lon": -71.08976179999999,
+        "type": "subway_station"
+    },
+    {
+        "lat": 42.4612371,
+        "lon": -71.02699609999999,
+        "type": "subway_station"
+    },
+    {
+        "lat": 42.4931448,
+        "lon": -71.01596529999999,
+        "type": "subway_station"
+    }
+]

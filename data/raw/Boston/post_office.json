@@ -1,0 +1,82 @@
+[
+    {
+        "lat": 42.39589369999999,
+        "lon": -71.12287979999999,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.3968537,
+        "lon": -71.1219971,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.3899078,
+        "lon": -71.1201657,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.413021,
+        "lon": -71.1309484,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.3736769,
+        "lon": -71.1227479,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.3871293,
+        "lon": -71.09807359999999,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.39243889999999,
+        "lon": -71.0935673,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.380775,
+        "lon": -71.0971761,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.4214192,
+        "lon": -71.1333464,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.3736723,
+        "lon": -71.0995365,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.36521,
+        "lon": -71.122203,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.3886406,
+        "lon": -71.086259,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.3678749,
+        "lon": -71.0854507,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.3675771,
+        "lon": -71.07946919999999,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.387384,
+        "lon": -71.1897097,
+        "type": "post_office"
+    },
+    {
+        "lat": 42.361849,
+        "lon": -71.42176309999999,
+        "type": "post_office"
+    }
+]

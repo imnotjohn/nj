@@ -1,0 +1,402 @@
+[
+    {
+        "lat": 42.3950483,
+        "lon": -71.127907,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.396304,
+        "lon": -71.1216108,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3961885,
+        "lon": -71.1213514,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3897264,
+        "lon": -71.11992769999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.38822529999999,
+        "lon": -71.142634,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3951316,
+        "lon": -71.1457432,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4066572,
+        "lon": -71.142984,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.40088730000001,
+        "lon": -71.1044621,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4107918,
+        "lon": -71.1065591,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4141897,
+        "lon": -71.1108292,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.38137020000001,
+        "lon": -71.0994183,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4188165,
+        "lon": -71.11300229999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3910823,
+        "lon": -71.0913642,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4179938,
+        "lon": -71.1100987,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4185952,
+        "lon": -71.1116504,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4210226,
+        "lon": -71.1319658,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4212092,
+        "lon": -71.1308833,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4158606,
+        "lon": -71.1533499,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4166541,
+        "lon": -71.15515119999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.372899,
+        "lon": -71.0954885,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3413552,
+        "lon": -71.1257991,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3409045,
+        "lon": -71.1217472,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3367776,
+        "lon": -71.1217233,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3488203,
+        "lon": -71.13338519999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.350182,
+        "lon": -71.13025600000002,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3501711,
+        "lon": -71.1303226,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3482411,
+        "lon": -71.1379963,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3519201,
+        "lon": -71.1254514,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3514472,
+        "lon": -71.1318569,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3523672,
+        "lon": -71.1281245,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3526759,
+        "lon": -71.12324029999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3556488,
+        "lon": -71.132949,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3356175,
+        "lon": -71.14986669999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3328624,
+        "lon": -71.10162079999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3492385,
+        "lon": -71.152789,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.32244800000001,
+        "lon": -71.10652379999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.32286269999999,
+        "lon": -71.1046863,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3111654,
+        "lon": -71.1143909,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3362257,
+        "lon": -71.0864153,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3504241,
+        "lon": -71.165486,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3347315,
+        "lon": -71.0429041,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.335161,
+        "lon": -71.0550483,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.335423,
+        "lon": -71.0410744,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3354383,
+        "lon": -71.0402684,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.338079,
+        "lon": -71.03404309999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.35060980000001,
+        "lon": -71.05758349999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3502709,
+        "lon": -71.0586675,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3502709,
+        "lon": -71.0586675,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3538104,
+        "lon": -71.057391,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3568981,
+        "lon": -71.05252639999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3564747,
+        "lon": -71.0579946,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3435373,
+        "lon": -71.07289949999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.322115,
+        "lon": -71.05694489999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3581403,
+        "lon": -71.0548922,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3212067,
+        "lon": -71.0569198,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3493341,
+        "lon": -71.0715975,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3494326,
+        "lon": -71.0718551,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3599395,
+        "lon": -71.0516573,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3178408,
+        "lon": -71.0568432,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.35085979999999,
+        "lon": -71.0755439,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3936888,
+        "lon": -71.0412802,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3941682,
+        "lon": -71.03946739999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3898652,
+        "lon": -71.0394704,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4030639,
+        "lon": -71.0497663,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.391808,
+        "lon": -71.03561429999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3933077,
+        "lon": -71.03408280000001,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4065175,
+        "lon": -71.05586559999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4072613,
+        "lon": -71.0551766,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.40780609999999,
+        "lon": -71.0546619,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.39577550000001,
+        "lon": -71.02917579999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4086548,
+        "lon": -71.0542012,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.409523,
+        "lon": -71.0529318,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4122922,
+        "lon": -71.0504583,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3847695,
+        "lon": -71.0704834,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.414333,
+        "lon": -71.0487266,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3974702,
+        "lon": -71.02099849999999,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.4156153,
+        "lon": -71.0476425,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3810775,
+        "lon": -71.0230031,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.37285749999999,
+        "lon": -71.06115740000001,
+        "type": "insurance_agency"
+    },
+    {
+        "lat": 42.3860637,
+        "lon": -71.017906,
+        "type": "insurance_agency"
+    }
+]
