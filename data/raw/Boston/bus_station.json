@@ -1,92 +1,7 @@
 [
     {
-        "lat": 42.33393100000001,
-        "lon": -71.03431499999999,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.3451704,
-        "lon": -71.0697842,
-        "type": "bus_station"
-    },
-    {
         "lat": 42.3589524,
         "lon": -71.0936091,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.2114251,
-        "lon": -71.0196867,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.3941848,
-        "lon": -71.0394551,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.4014666,
-        "lon": -71.0416098,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.4031975,
-        "lon": -71.0462834,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.3869842,
-        "lon": -71.0743411,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.38399090000001,
-        "lon": -71.0769595,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.36604,
-        "lon": -71.06396,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.433058,
-        "lon": -71.047263,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.392616,
-        "lon": -71.100619,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.3925431,
-        "lon": -71.1007187,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.3552819,
-        "lon": -71.05629669999999,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.397746,
-        "lon": -70.99253300000001,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.3505352,
-        "lon": -71.0561841,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.3504209,
-        "lon": -71.0556344,
-        "type": "bus_station"
-    },
-    {
-        "lat": 42.3507232,
-        "lon": -71.05848569999999,
         "type": "bus_station"
     },
     {
@@ -95,18 +10,38 @@
         "type": "bus_station"
     },
     {
-        "lat": 42.35041529999999,
-        "lon": -71.056214,
+        "lat": 42.33393100000001,
+        "lon": -71.03431499999999,
         "type": "bus_station"
     },
     {
-        "lat": 42.3509686,
-        "lon": -71.0676912,
+        "lat": 42.349537,
+        "lon": -71.05626,
         "type": "bus_station"
     },
     {
-        "lat": 42.3589524,
-        "lon": -71.0936091,
+        "lat": 42.3504209,
+        "lon": -71.0556344,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.34468,
+        "lon": -71.08281,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3665658,
+        "lon": -71.0641785,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.335567,
+        "lon": -71.03554,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3147716,
+        "lon": -71.0390031,
         "type": "bus_station"
     },
     {
@@ -115,8 +50,128 @@
         "type": "bus_station"
     },
     {
+        "lat": 42.36604,
+        "lon": -71.06396,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.335658,
+        "lon": -71.035628,
+        "type": "bus_station"
+    },
+    {
         "lat": 42.3451704,
         "lon": -71.0697842,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3505352,
+        "lon": -71.0561841,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.35046,
+        "lon": -71.05524,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3509686,
+        "lon": -71.0676912,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.36569919999999,
+        "lon": -71.05854169999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3552819,
+        "lon": -71.05629669999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3507232,
+        "lon": -71.05848569999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3484344,
+        "lon": -71.08304489999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3352528,
+        "lon": -71.0709201,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3471431,
+        "lon": -71.089271,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3502989,
+        "lon": -71.05706049999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3504189,
+        "lon": -71.05622009999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.358818,
+        "lon": -71.057611,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3380485,
+        "lon": -71.03671659999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.35128330000001,
+        "lon": -71.0661021,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.361365,
+        "lon": -71.062037,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3425722,
+        "lon": -71.05694489999999,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.35041529999999,
+        "lon": -71.056214,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3454288,
+        "lon": -71.0513553,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.34868489999999,
+        "lon": -71.0739567,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.342687,
+        "lon": -71.085056,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3593999,
+        "lon": -71.0564346,
+        "type": "bus_station"
+    },
+    {
+        "lat": 42.3519448,
+        "lon": -71.0551625,
         "type": "bus_station"
     }
 ]

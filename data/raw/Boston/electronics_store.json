@@ -1,22 +1,42 @@
 [
     {
-        "lat": 42.39580249999999,
-        "lon": -71.1218868,
+        "lat": 42.3882117,
+        "lon": -71.1426761,
         "type": "electronics_store"
     },
     {
-        "lat": 42.3514491,
-        "lon": -71.07155519999999,
+        "lat": 42.3641622,
+        "lon": -71.15750489999999,
         "type": "electronics_store"
     },
     {
-        "lat": 42.3674353,
-        "lon": -71.0770811,
+        "lat": 42.390252,
+        "lon": -71.14079629999999,
         "type": "electronics_store"
     },
     {
-        "lat": 42.3514491,
-        "lon": -71.07155519999999,
+        "lat": 42.40679799999999,
+        "lon": -71.0923474,
+        "type": "electronics_store"
+    },
+    {
+        "lat": 42.371265,
+        "lon": -71.097104,
+        "type": "electronics_store"
+    },
+    {
+        "lat": 42.372502,
+        "lon": -71.1196518,
+        "type": "electronics_store"
+    },
+    {
+        "lat": 42.3638315,
+        "lon": -71.1016795,
+        "type": "electronics_store"
+    },
+    {
+        "lat": 42.3839078,
+        "lon": -71.0997639,
         "type": "electronics_store"
     }
 ]

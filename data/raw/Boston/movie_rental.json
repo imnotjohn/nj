@@ -5,318 +5,33 @@
         "type": "movie_rental"
     },
     {
-        "lat": 42.3759707,
-        "lon": -71.1028749,
-        "type": "movie_rental"
-    },
-    {
         "lat": 42.4079411,
         "lon": -71.0937994,
         "type": "movie_rental"
     },
     {
-        "lat": 42.3611531,
-        "lon": -71.1371339,
+        "lat": 42.3759707,
+        "lon": -71.1028749,
         "type": "movie_rental"
     },
     {
-        "lat": 42.3739218,
-        "lon": -71.08396809999999,
+        "lat": 42.423321,
+        "lon": -71.089919,
         "type": "movie_rental"
     },
     {
-        "lat": 42.361918,
-        "lon": -71.0999564,
+        "lat": 42.3751232,
+        "lon": -71.1486833,
         "type": "movie_rental"
     },
     {
-        "lat": 42.3527155,
-        "lon": -71.1235526,
+        "lat": 42.3733583,
+        "lon": -71.11890319999999,
         "type": "movie_rental"
     },
     {
-        "lat": 42.3885383,
-        "lon": -71.1908101,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3434474,
-        "lon": -71.100275,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3393354,
-        "lon": -71.1370159,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3384034,
-        "lon": -71.1205373,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3374912,
-        "lon": -71.13929399999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.347789,
-        "lon": -71.0799552,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3442765,
-        "lon": -71.086612,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3474161,
-        "lon": -71.0752689,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3960087,
-        "lon": -71.0419229,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3763606,
-        "lon": -71.0403501,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3741661,
-        "lon": -71.038929,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3691156,
-        "lon": -71.22114499999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.456219,
-        "lon": -71.066166,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3384034,
-        "lon": -71.1205373,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3393354,
-        "lon": -71.1370159,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3374912,
-        "lon": -71.13929399999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3527155,
-        "lon": -71.1235526,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3434474,
-        "lon": -71.100275,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3611531,
-        "lon": -71.1371339,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3442765,
-        "lon": -71.086612,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3124483,
-        "lon": -71.10177449999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3237687,
-        "lon": -71.1664047,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.347789,
-        "lon": -71.0799552,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3739218,
-        "lon": -71.08396809999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3479106,
-        "lon": -71.06276299999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3899468,
-        "lon": -71.1181163,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.31874510000001,
-        "lon": -71.0504787,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.2839844,
-        "lon": -71.157457,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3741661,
-        "lon": -71.038929,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3763606,
-        "lon": -71.0403501,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3691156,
-        "lon": -71.22114499999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.2739813,
-        "lon": -71.0684332,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.26202199999999,
-        "lon": -71.1080676,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3355085,
-        "lon": -71.0365009,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3479106,
-        "lon": -71.06276299999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3505256,
-        "lon": -71.06286659999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.353998,
-        "lon": -71.0582539,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3559813,
-        "lon": -71.05228389999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3265631,
-        "lon": -71.0650284,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.356597,
-        "lon": -71.059557,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.31874510000001,
-        "lon": -71.0504787,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3474161,
-        "lon": -71.0752689,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.347789,
-        "lon": -71.0799552,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3442765,
-        "lon": -71.086612,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3741661,
-        "lon": -71.038929,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3763606,
-        "lon": -71.0403501,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3434474,
-        "lon": -71.100275,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3739218,
-        "lon": -71.08396809999999,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3384034,
-        "lon": -71.1205373,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3960087,
-        "lon": -71.0419229,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3527155,
-        "lon": -71.1235526,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3393354,
-        "lon": -71.1370159,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.2758052,
-        "lon": -71.0272086,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3960087,
-        "lon": -71.0419229,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.4010211,
-        "lon": -71.0424948,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3763606,
-        "lon": -71.0403501,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3741661,
-        "lon": -71.038929,
+        "lat": 42.4069347,
+        "lon": -71.0923875,
         "type": "movie_rental"
     },
     {
@@ -325,58 +40,38 @@
         "type": "movie_rental"
     },
     {
-        "lat": 42.3739218,
-        "lon": -71.08396809999999,
+        "lat": 42.3736458,
+        "lon": -71.11426089999999,
         "type": "movie_rental"
     },
     {
-        "lat": 42.4079411,
-        "lon": -71.0937994,
+        "lat": 42.3912764,
+        "lon": -71.1381835,
         "type": "movie_rental"
     },
     {
-        "lat": 42.4264647,
-        "lon": -71.0112138,
+        "lat": 42.3680503,
+        "lon": -71.0899187,
         "type": "movie_rental"
     },
     {
-        "lat": 42.4273166,
-        "lon": -71.0108156,
+        "lat": 42.3736065,
+        "lon": -71.1213657,
         "type": "movie_rental"
     },
     {
-        "lat": 42.3505256,
-        "lon": -71.06286659999999,
+        "lat": 42.3966407,
+        "lon": -71.123001,
         "type": "movie_rental"
     },
     {
-        "lat": 42.3474161,
-        "lon": -71.0752689,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3899468,
-        "lon": -71.1181163,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.347789,
-        "lon": -71.0799552,
+        "lat": 42.4058576,
+        "lon": -71.14275289999999,
         "type": "movie_rental"
     },
     {
         "lat": 42.3442765,
         "lon": -71.086612,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.456219,
-        "lon": -71.066166,
-        "type": "movie_rental"
-    },
-    {
-        "lat": 42.3434474,
-        "lon": -71.100275,
         "type": "movie_rental"
     },
     {
@@ -390,13 +85,208 @@
         "type": "movie_rental"
     },
     {
-        "lat": 42.31874510000001,
-        "lon": -71.0504787,
+        "lat": 42.3237687,
+        "lon": -71.1664047,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.312494,
+        "lon": -71.1017845,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3593482,
+        "lon": -71.0935468,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3595068,
+        "lon": -71.1372311,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3606489,
+        "lon": -71.090779,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3621022,
+        "lon": -71.15668459999999,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3680503,
+        "lon": -71.0899187,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3393354,
+        "lon": -71.1370159,
         "type": "movie_rental"
     },
     {
         "lat": 42.3384034,
         "lon": -71.1205373,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3374912,
+        "lon": -71.13929399999999,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3434474,
+        "lon": -71.100275,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.34277,
+        "lon": -71.122436,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3402377,
+        "lon": -71.0935211,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3442765,
+        "lon": -71.086612,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.347789,
+        "lon": -71.0799552,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.31874510000001,
+        "lon": -71.0504787,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3479106,
+        "lon": -71.06276299999999,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.356597,
+        "lon": -71.059557,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3505226,
+        "lon": -71.0600257,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3681263,
+        "lon": -71.076239,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3528492,
+        "lon": -71.0471884,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3571562,
+        "lon": -71.0609101,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.33876679999999,
+        "lon": -71.0817388,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3532421,
+        "lon": -71.06416779999999,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.350423,
+        "lon": -71.0673059,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.350583,
+        "lon": -71.0799747,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3505256,
+        "lon": -71.06286659999999,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3254576,
+        "lon": -71.06210860000002,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3652903,
+        "lon": -71.0620051,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3613627,
+        "lon": -71.05263529999999,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3680503,
+        "lon": -71.0899187,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3739218,
+        "lon": -71.08396809999999,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3741661,
+        "lon": -71.038929,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3960087,
+        "lon": -71.0419229,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3763606,
+        "lon": -71.0403501,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3681263,
+        "lon": -71.076239,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3809372,
+        "lon": -71.0856972,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3949035,
+        "lon": -71.0798568,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3680503,
+        "lon": -71.0899187,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.3652903,
+        "lon": -71.0620051,
+        "type": "movie_rental"
+    },
+    {
+        "lat": 42.366947,
+        "lon": -71.0699558,
         "type": "movie_rental"
     }
 ]

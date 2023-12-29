@@ -3,5 +3,20 @@
         "lat": 42.3897069,
         "lon": -71.140926,
         "type": "home_goods_store"
+    },
+    {
+        "lat": 42.356479,
+        "lon": -71.138858,
+        "type": "home_goods_store"
+    },
+    {
+        "lat": 42.3564087,
+        "lon": -71.0589172,
+        "type": "home_goods_store"
+    },
+    {
+        "lat": 42.3945715,
+        "lon": -71.0429205,
+        "type": "home_goods_store"
     }
 ]

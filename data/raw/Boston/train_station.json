@@ -3,5 +3,10 @@
         "lat": 42.3422785,
         "lon": -71.1462428,
         "type": "train_station"
+    },
+    {
+        "lat": 42.3664424,
+        "lon": -71.06197399999999,
+        "type": "train_station"
     }
 ]

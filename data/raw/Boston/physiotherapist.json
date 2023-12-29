@@ -1,87 +1,7 @@
 [
     {
-        "lat": 42.3924331,
-        "lon": -71.1250482,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3975012,
-        "lon": -71.1236303,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3958218,
-        "lon": -71.12183259999999,
-        "type": "physiotherapist"
-    },
-    {
         "lat": 42.3902413,
         "lon": -71.1215028,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.40135189999999,
-        "lon": -71.1370859,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.4025396,
-        "lon": -71.13618269999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.38846179999999,
-        "lon": -71.10314369999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.4054676,
-        "lon": -71.10200569999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3915798,
-        "lon": -71.15521249999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3818468,
-        "lon": -71.1022842,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3722336,
-        "lon": -71.11866599999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.4129905,
-        "lon": -71.1497862,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.4166484,
-        "lon": -71.15418149999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3821774,
-        "lon": -71.0889171,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.4177895,
-        "lon": -71.15809530000001,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3910582,
-        "lon": -71.08230209999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3630945,
-        "lon": -71.1403368,
         "type": "physiotherapist"
     },
     {
@@ -90,33 +10,83 @@
         "type": "physiotherapist"
     },
     {
+        "lat": 42.3915798,
+        "lon": -71.15521249999999,
+        "type": "physiotherapist"
+    },
+    {
         "lat": 42.3745146,
         "lon": -71.0855527,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3561644,
-        "lon": -71.1331297,
+        "lat": 42.4054676,
+        "lon": -71.10200569999999,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3417953,
-        "lon": -71.1234225,
+        "lat": 42.3958218,
+        "lon": -71.12183259999999,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3418194,
-        "lon": -71.1233089,
+        "lat": 42.3818468,
+        "lon": -71.1022842,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3387507,
-        "lon": -71.13215679999999,
+        "lat": 42.4129905,
+        "lon": -71.1497862,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3470603,
-        "lon": -71.12831369999999,
+        "lat": 42.3821774,
+        "lon": -71.0889171,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.4166484,
+        "lon": -71.15418149999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3673039,
+        "lon": -71.09012129999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3722336,
+        "lon": -71.11866599999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.38846179999999,
+        "lon": -71.10314369999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.4177895,
+        "lon": -71.15809530000001,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3916019,
+        "lon": -71.1556684,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.40135189999999,
+        "lon": -71.1370859,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3644408,
+        "lon": -71.1040143,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3744443,
+        "lon": -71.0859663,
         "type": "physiotherapist"
     },
     {
@@ -125,48 +95,8 @@
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3385896,
-        "lon": -71.10784129999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3374167,
-        "lon": -71.1455365,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3361094,
-        "lon": -71.1068497,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3329675,
-        "lon": -71.107832,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3561644,
-        "lon": -71.1331297,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.35771400000001,
-        "lon": -71.1462906,
-        "type": "physiotherapist"
-    },
-    {
         "lat": 42.3492539,
         "lon": -71.096595,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3630945,
-        "lon": -71.1403368,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3124544,
-        "lon": -71.1140272,
         "type": "physiotherapist"
     },
     {
@@ -185,163 +115,78 @@
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3722336,
-        "lon": -71.11866599999999,
+        "lat": 42.3124544,
+        "lon": -71.1140272,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3284134,
-        "lon": -71.08307769999999,
+        "lat": 42.3561644,
+        "lon": -71.1331297,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3512239,
-        "lon": -71.07565070000001,
+        "lat": 42.3630945,
+        "lon": -71.1403368,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3375402,
-        "lon": -71.0491041,
+        "lat": 42.3417953,
+        "lon": -71.1234225,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3374238,
-        "lon": -71.0418838,
+        "lat": 42.3387507,
+        "lon": -71.13215679999999,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3456529,
-        "lon": -71.0511076,
+        "lat": 42.3374167,
+        "lon": -71.1455365,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3490018,
-        "lon": -71.0497087,
+        "lat": 42.3470603,
+        "lon": -71.12831369999999,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.35375519999999,
-        "lon": -71.056416,
+        "lat": 42.3673039,
+        "lon": -71.09012129999999,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.35375519999999,
-        "lon": -71.056416,
+        "lat": 42.3486969,
+        "lon": -71.0907977,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3553117,
-        "lon": -71.057902,
+        "lat": 42.35771400000001,
+        "lon": -71.1462906,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.357266,
-        "lon": -71.0581879,
+        "lat": 42.3385896,
+        "lon": -71.10784129999999,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3327461,
-        "lon": -71.0732958,
+        "lat": 42.3418194,
+        "lon": -71.1233089,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3485163,
-        "lon": -71.0722225,
+        "lat": 42.3329675,
+        "lon": -71.107832,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3417631,
-        "lon": -71.0752649,
+        "lat": 42.3644408,
+        "lon": -71.1040143,
         "type": "physiotherapist"
     },
     {
-        "lat": 42.358145,
-        "lon": -71.05920880000001,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.34272600000001,
-        "lon": -71.0794086,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3512239,
-        "lon": -71.07565070000001,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3503207,
-        "lon": -71.07726559999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3636633,
-        "lon": -71.0549837,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3382893,
-        "lon": -71.0826179,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.36257000000001,
-        "lon": -71.068255,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3284134,
-        "lon": -71.08307769999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3729894,
-        "lon": -71.036003,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3760003,
-        "lon": -71.0361274,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3729894,
-        "lon": -71.036003,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3910582,
-        "lon": -71.08230209999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3636633,
-        "lon": -71.0549837,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3821774,
-        "lon": -71.0889171,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3745146,
-        "lon": -71.0855527,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.36257000000001,
-        "lon": -71.068255,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.357266,
-        "lon": -71.0581879,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3553117,
-        "lon": -71.057902,
+        "lat": 42.3446994,
+        "lon": -71.1111481,
         "type": "physiotherapist"
     },
     {
@@ -350,31 +195,6 @@
         "type": "physiotherapist"
     },
     {
-        "lat": 42.4225999,
-        "lon": -71.00831389999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.4054676,
-        "lon": -71.10200569999999,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.35375519999999,
-        "lon": -71.056416,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.35375519999999,
-        "lon": -71.056416,
-        "type": "physiotherapist"
-    },
-    {
-        "lat": 42.3818468,
-        "lon": -71.1022842,
-        "type": "physiotherapist"
-    },
-    {
         "lat": 42.3490018,
         "lon": -71.0497087,
         "type": "physiotherapist"
@@ -385,8 +205,28 @@
         "type": "physiotherapist"
     },
     {
-        "lat": 42.4403859,
-        "lon": -71.0718832,
+        "lat": 42.3284134,
+        "lon": -71.08307769999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.36257000000001,
+        "lon": -71.068255,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3485163,
+        "lon": -71.0722225,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3553117,
+        "lon": -71.057902,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.34272600000001,
+        "lon": -71.0794086,
         "type": "physiotherapist"
     },
     {
@@ -395,8 +235,178 @@
         "type": "physiotherapist"
     },
     {
-        "lat": 42.3485163,
-        "lon": -71.0722225,
+        "lat": 42.3382893,
+        "lon": -71.0826179,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3327461,
+        "lon": -71.0732958,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3535344,
+        "lon": -71.0802994,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.35375519999999,
+        "lon": -71.056416,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.358145,
+        "lon": -71.05920880000001,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3514018,
+        "lon": -71.0717578,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.35375519999999,
+        "lon": -71.056416,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3636633,
+        "lon": -71.0549837,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3374238,
+        "lon": -71.0418838,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3417631,
+        "lon": -71.0752649,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3456529,
+        "lon": -71.0511076,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3535771,
+        "lon": -71.0803233,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.357266,
+        "lon": -71.0581879,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3284475,
+        "lon": -71.0831922,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3507756,
+        "lon": -71.07603089999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.355194,
+        "lon": -71.0579052,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3624863,
+        "lon": -71.0680036,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.33748480000001,
+        "lon": -71.0491698,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3673039,
+        "lon": -71.09012129999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3484034,
+        "lon": -71.07238029999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3452395,
+        "lon": -71.0870977,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3576907,
+        "lon": -71.0577692,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3534174,
+        "lon": -71.0626553,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3910582,
+        "lon": -71.08230209999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3745146,
+        "lon": -71.0855527,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3729894,
+        "lon": -71.036003,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3636869,
+        "lon": -71.083359,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3760003,
+        "lon": -71.0361274,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.4225999,
+        "lon": -71.00831389999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3821774,
+        "lon": -71.0889171,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3744443,
+        "lon": -71.0859663,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.4055984,
+        "lon": -71.083854,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3636633,
+        "lon": -71.0549837,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3673039,
+        "lon": -71.09012129999999,
+        "type": "physiotherapist"
+    },
+    {
+        "lat": 42.3712952,
+        "lon": -71.03933959999999,
         "type": "physiotherapist"
     }
 ]

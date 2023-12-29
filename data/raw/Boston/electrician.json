@@ -1,15 +1,5 @@
 [
     {
-        "lat": 42.4097445,
-        "lon": -71.1058274,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.4125653,
-        "lon": -71.10701510000001,
-        "type": "electrician"
-    },
-    {
         "lat": 42.380577,
         "lon": -71.1547849,
         "type": "electrician"
@@ -20,13 +10,13 @@
         "type": "electrician"
     },
     {
-        "lat": 42.3849609,
-        "lon": -71.0840908,
+        "lat": 42.4097445,
+        "lon": -71.1058274,
         "type": "electrician"
     },
     {
-        "lat": 42.3840045,
-        "lon": -71.0837713,
+        "lat": 42.4125653,
+        "lon": -71.10701510000001,
         "type": "electrician"
     },
     {
@@ -35,73 +25,23 @@
         "type": "electrician"
     },
     {
-        "lat": 42.37151470000001,
-        "lon": -71.0818452,
+        "lat": 42.3713501,
+        "lon": -71.15807269999999,
         "type": "electrician"
     },
     {
-        "lat": 42.3587086,
-        "lon": -71.1536709,
+        "lat": 42.37246770000001,
+        "lon": -71.0881014,
         "type": "electrician"
     },
     {
-        "lat": 42.381988,
-        "lon": -71.0716613,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.383341,
-        "lon": -71.187932,
+        "lat": 42.4060899,
+        "lon": -71.1044134,
         "type": "electrician"
     },
     {
         "lat": 42.3435003,
         "lon": -71.08886629999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3488,
-        "lon": -71.074024,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3444893,
-        "lon": -71.07636529999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3311643,
-        "lon": -71.0991622,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3400919,
-        "lon": -71.0680352,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.4345267,
-        "lon": -71.044663,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3713188,
-        "lon": -71.03246299999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3301252,
-        "lon": -71.1920556,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.381509,
-        "lon": -71.240005,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3357454,
-        "lon": -71.1216355,
         "type": "electrician"
     },
     {
@@ -115,23 +55,48 @@
         "type": "electrician"
     },
     {
-        "lat": 42.3587086,
-        "lon": -71.1536709,
+        "lat": 42.3129097,
+        "lon": -71.0901983,
         "type": "electrician"
     },
     {
-        "lat": 42.3435003,
-        "lon": -71.08886629999999,
+        "lat": 42.3629964,
+        "lon": -71.1382145,
         "type": "electrician"
     },
     {
-        "lat": 42.3444893,
-        "lon": -71.07636529999999,
+        "lat": 42.3357454,
+        "lon": -71.1216355,
         "type": "electrician"
     },
     {
-        "lat": 42.3488,
-        "lon": -71.074024,
+        "lat": 42.3218894,
+        "lon": -71.1023639,
+        "type": "electrician"
+    },
+    {
+        "lat": 42.31192240000001,
+        "lon": -71.1144727,
+        "type": "electrician"
+    },
+    {
+        "lat": 42.3667434,
+        "lon": -71.1627989,
+        "type": "electrician"
+    },
+    {
+        "lat": 42.3240944,
+        "lon": -71.0890404,
+        "type": "electrician"
+    },
+    {
+        "lat": 42.3584299,
+        "lon": -71.1356151,
+        "type": "electrician"
+    },
+    {
+        "lat": 42.3469251,
+        "lon": -71.157748,
         "type": "electrician"
     },
     {
@@ -140,18 +105,8 @@
         "type": "electrician"
     },
     {
-        "lat": 42.380577,
-        "lon": -71.1547849,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.37151470000001,
-        "lon": -71.0818452,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3301252,
-        "lon": -71.1920556,
+        "lat": 42.3444893,
+        "lon": -71.07636529999999,
         "type": "electrician"
     },
     {
@@ -160,43 +115,13 @@
         "type": "electrician"
     },
     {
-        "lat": 42.3840045,
-        "lon": -71.0837713,
+        "lat": 42.3488,
+        "lon": -71.074024,
         "type": "electrician"
     },
     {
-        "lat": 42.3574892,
-        "lon": -71.1970858,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.358069,
-        "lon": -71.05523079999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.2859128,
-        "lon": -71.149621,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.381988,
-        "lon": -71.0716613,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.383341,
-        "lon": -71.187932,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3317607,
-        "lon": -71.03536509999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3713188,
-        "lon": -71.03246299999999,
+        "lat": 42.3435003,
+        "lon": -71.08886629999999,
         "type": "electrician"
     },
     {
@@ -205,53 +130,38 @@
         "type": "electrician"
     },
     {
-        "lat": 42.3317607,
-        "lon": -71.03536509999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3400919,
-        "lon": -71.0680352,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3247394,
-        "lon": -71.0570352,
-        "type": "electrician"
-    },
-    {
         "lat": 42.358069,
         "lon": -71.05523079999999,
         "type": "electrician"
     },
     {
-        "lat": 42.3488,
-        "lon": -71.074024,
+        "lat": 42.3317607,
+        "lon": -71.03536509999999,
         "type": "electrician"
     },
     {
-        "lat": 42.3444893,
-        "lon": -71.07636529999999,
+        "lat": 42.34930019999999,
+        "lon": -71.0689294,
         "type": "electrician"
     },
     {
-        "lat": 42.3435003,
-        "lon": -71.08886629999999,
+        "lat": 42.3129097,
+        "lon": -71.0901983,
         "type": "electrician"
     },
     {
-        "lat": 42.3713188,
-        "lon": -71.03246299999999,
+        "lat": 42.334638,
+        "lon": -71.0321806,
         "type": "electrician"
     },
     {
-        "lat": 42.3055227,
-        "lon": -71.0627094,
+        "lat": 42.3564747,
+        "lon": -71.0579946,
         "type": "electrician"
     },
     {
-        "lat": 42.3311643,
-        "lon": -71.0991622,
+        "lat": 42.3840045,
+        "lon": -71.0837713,
         "type": "electrician"
     },
     {
@@ -260,63 +170,28 @@
         "type": "electrician"
     },
     {
-        "lat": 42.2957956,
-        "lon": -71.05654419999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.381988,
-        "lon": -71.0716613,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.383821,
-        "lon": -71.017731,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3840045,
-        "lon": -71.0837713,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3899742,
-        "lon": -70.9992841,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.4345267,
-        "lon": -71.044663,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3301252,
-        "lon": -71.1920556,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.2073466,
-        "lon": -70.9676595,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.381988,
-        "lon": -71.0716613,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.383821,
-        "lon": -71.017731,
-        "type": "electrician"
-    },
-    {
         "lat": 42.3713188,
         "lon": -71.03246299999999,
         "type": "electrician"
     },
     {
-        "lat": 42.3840045,
-        "lon": -71.0837713,
+        "lat": 42.4238252,
+        "lon": -71.06641119999999,
+        "type": "electrician"
+    },
+    {
+        "lat": 42.381988,
+        "lon": -71.0716613,
+        "type": "electrician"
+    },
+    {
+        "lat": 42.383821,
+        "lon": -71.017731,
+        "type": "electrician"
+    },
+    {
+        "lat": 42.3779875,
+        "lon": -71.08112799999999,
         "type": "electrician"
     },
     {
@@ -325,78 +200,23 @@
         "type": "electrician"
     },
     {
-        "lat": 42.37151470000001,
-        "lon": -71.0818452,
+        "lat": 42.4222426,
+        "lon": -71.0836856,
         "type": "electrician"
     },
     {
-        "lat": 42.3899742,
-        "lon": -70.9992841,
+        "lat": 42.37246770000001,
+        "lon": -71.0881014,
         "type": "electrician"
     },
     {
-        "lat": 42.358069,
-        "lon": -71.05523079999999,
+        "lat": 42.4198124,
+        "lon": -71.0543151,
         "type": "electrician"
     },
     {
-        "lat": 42.4345267,
-        "lon": -71.044663,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.4097445,
-        "lon": -71.1058274,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.4125653,
-        "lon": -71.10701510000001,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.4433018,
-        "lon": -71.0540572,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3488,
-        "lon": -71.074024,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3444893,
-        "lon": -71.07636529999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3400919,
-        "lon": -71.0680352,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3435003,
-        "lon": -71.08886629999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3317607,
-        "lon": -71.03536509999999,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3247394,
-        "lon": -71.0570352,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.3311643,
-        "lon": -71.0991622,
-        "type": "electrician"
-    },
-    {
-        "lat": 42.380577,
-        "lon": -71.1547849,
+        "lat": 42.3811293,
+        "lon": -71.02302019999999,
         "type": "electrician"
     }
 ]

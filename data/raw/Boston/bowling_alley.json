@@ -5,18 +5,8 @@
         "type": "bowling_alley"
     },
     {
-        "lat": 42.3913175,
-        "lon": -71.0795961,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3569942,
-        "lon": -71.1444357,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3794901,
-        "lon": -71.0735621,
+        "lat": 42.4160382,
+        "lon": -71.1111509,
         "type": "bowling_alley"
     },
     {
@@ -25,178 +15,13 @@
         "type": "bowling_alley"
     },
     {
-        "lat": 42.3759577,
-        "lon": -71.0386802,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3530189,
-        "lon": -71.0471523,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3528112,
-        "lon": -71.04661879999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3353464,
-        "lon": -71.042349,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4430146,
-        "lon": -71.02935839999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4864487,
-        "lon": -71.2236611,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4865203,
-        "lon": -71.2240113,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2941921,
-        "lon": -71.0461517,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.503012,
-        "lon": -71.0663005,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4605859,
-        "lon": -71.2776923,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2568303,
-        "lon": -71.12407759999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.5147678,
-        "lon": -71.0346806,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2798717,
-        "lon": -71.2368343,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2424825,
-        "lon": -70.9935759,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.52404,
-        "lon": -70.929493,
-        "type": "bowling_alley"
-    },
-    {
         "lat": 42.3569942,
         "lon": -71.1444357,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.34740600000001,
-        "lon": -71.0943156,
         "type": "bowling_alley"
     },
     {
         "lat": 42.3471055,
         "lon": -71.08552209999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3794901,
-        "lon": -71.0735621,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3957606,
-        "lon": -71.1238137,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3528112,
-        "lon": -71.04661879999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3913175,
-        "lon": -71.0795961,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3353464,
-        "lon": -71.042349,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3759577,
-        "lon": -71.0386802,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2941921,
-        "lon": -71.0461517,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2568303,
-        "lon": -71.12407759999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2798717,
-        "lon": -71.2368343,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4430146,
-        "lon": -71.02935839999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2424825,
-        "lon": -70.9935759,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.19298939999999,
-        "lon": -71.19948149999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4865203,
-        "lon": -71.2240113,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4605859,
-        "lon": -71.2776923,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.503012,
-        "lon": -71.0663005,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.52404,
-        "lon": -70.929493,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.5195284,
-        "lon": -70.8923183,
         "type": "bowling_alley"
     },
     {
@@ -220,8 +45,13 @@
         "type": "bowling_alley"
     },
     {
-        "lat": 42.34740600000001,
-        "lon": -71.0943156,
+        "lat": 42.3627964,
+        "lon": -71.0701368,
+        "type": "bowling_alley"
+    },
+    {
+        "lat": 42.3913175,
+        "lon": -71.0795961,
         "type": "bowling_alley"
     },
     {
@@ -232,171 +62,6 @@
     {
         "lat": 42.3794901,
         "lon": -71.0735621,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2941921,
-        "lon": -71.0461517,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3913175,
-        "lon": -71.0795961,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3569942,
-        "lon": -71.1444357,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3957606,
-        "lon": -71.1238137,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2568303,
-        "lon": -71.12407759999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4430146,
-        "lon": -71.02935839999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2424825,
-        "lon": -70.9935759,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2798717,
-        "lon": -71.2368343,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.503012,
-        "lon": -71.0663005,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.19298939999999,
-        "lon": -71.19948149999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4865203,
-        "lon": -71.2240113,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.52404,
-        "lon": -70.929493,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4605859,
-        "lon": -71.2776923,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3759577,
-        "lon": -71.0386802,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3913175,
-        "lon": -71.0795961,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3794901,
-        "lon": -71.0735621,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3530189,
-        "lon": -71.0471523,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3528112,
-        "lon": -71.04661879999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4430146,
-        "lon": -71.02935839999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3957606,
-        "lon": -71.1238137,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.34740600000001,
-        "lon": -71.0943156,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3353464,
-        "lon": -71.042349,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.3569942,
-        "lon": -71.1444357,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2941921,
-        "lon": -71.0461517,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.503012,
-        "lon": -71.0663005,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.5147678,
-        "lon": -71.0346806,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2568303,
-        "lon": -71.12407759999999,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.52404,
-        "lon": -70.929493,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2424825,
-        "lon": -70.9935759,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.4865203,
-        "lon": -71.2240113,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.5195284,
-        "lon": -70.8923183,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.5430135,
-        "lon": -70.9191318,
-        "type": "bowling_alley"
-    },
-    {
-        "lat": 42.2798717,
-        "lon": -71.2368343,
         "type": "bowling_alley"
     }
 ]
